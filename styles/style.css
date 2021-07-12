@@ -128,4 +128,10 @@ hr{
     color: #AEAEAE;
 }
 
-/* Media Queries */
+/* -------------------------
+        Media Queries 
+---------------------------*/
+/* Mobile Device */
+@media only screen and (max-width:688px) {
+
+}
