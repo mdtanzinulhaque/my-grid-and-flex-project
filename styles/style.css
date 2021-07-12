@@ -82,3 +82,8 @@ hr{
     color: #562EFF;
     text-decoration: none;
 }
+/* courses styles */
+.course .course-banner img{
+    width: 224px;
+    height: 104px;
+}
